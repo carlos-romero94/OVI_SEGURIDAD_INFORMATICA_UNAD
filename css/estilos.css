@@ -7,3 +7,12 @@
  .p{
  	color: blue;
  }
+
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 10px 10px 10px;
+}
