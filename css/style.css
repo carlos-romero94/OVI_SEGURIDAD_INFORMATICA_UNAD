@@ -20,6 +20,56 @@ font-weight: bold;
 
 
 }
+table {
+
+	text-align: center;;
+    border-collapse: collapse;
+    width: 100%;
+}
+td{
+
+
+padding-left: 100px;
+
+	border:1px solid black;
+
+}
+th, td {
+
+
+	align-self: center;
+
+	padding-top: 20px;
+    text-align: center;
+
+     padding: 15px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+
+	margin-top: 3em;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.autores1{
+	margin-top: 3em;
+border-collapse: collapse;
+    width: 70% ;
+text-align: center;
+	
+	
+	border: 1px solid; 
+	box-shadow: 2px 2px 5px #999;
+	margin:0 auto;
+text-align:left;
+
+
+
+
+}
     .navbar {
       margin-bottom: 0;
       border-radius: 0;
@@ -32,6 +82,8 @@ font-weight: bold;
 	/* Add a gray background color and some padding to the footer */
 	footer {
 	  background-color: #333;
+	  height: 30px;
+
 	  padding: 25px;
 	}
 	.navbar  a{
